@@ -173,7 +173,7 @@ from olympic.olympictable o
 where SUBSTRING_INDEX(games,' ',-1) = 'Summer'
 ```
 
-### 📌 QUESTIONS
+## 📌 QUESTIONS
 
 #### 1. How many olympics games have been held? 
 
