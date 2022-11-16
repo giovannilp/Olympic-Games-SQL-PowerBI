@@ -7,7 +7,7 @@
 - [Data Exploration - SQL](#-data-exploration---sql)
 - [Task Solution - SQL](#-task-solution)
 - [Questions](#-questions)
-- [Power BI](#-power-bi)
+- [Dashboard - Power BI](#-power-bi)
 
 ##  📌 Business Task
 
