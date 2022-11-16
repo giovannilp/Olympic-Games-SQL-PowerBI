@@ -391,12 +391,11 @@ Steps:
 |Israel|1|1|7|
 |Syria|1|1|1|
 
-#### 9.List down total gold, silver and broze medals won by each country.
-
-
 ### 📌 POWER BI
 
-![image](https://user-images.githubusercontent.com/87883824/202069220-9170b06a-b0a2-4cc4-8ebd-cacb14b343d1.png)
+With the [Task Solution - SQL](#-task-solution) data I produced a simple dashboard for solving the task: 
+
+
 
 
 
