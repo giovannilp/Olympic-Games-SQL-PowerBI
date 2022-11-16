@@ -395,6 +395,7 @@ Steps:
 
 With the [Task Solution - SQL](#-task-solution) data I produced a simple dashboard for solving the task: 
 
+![image](https://user-images.githubusercontent.com/87883824/202078105-53d8032b-9300-4d00-af57-8c60faac3ba0.png)
 
 
 
