@@ -8,6 +8,9 @@
 - [Questions](#-questions)
 - [Dashboard - Power BI](#-power-bi)
 
+## ✏️ Data Set
+120 Years of Olympic History from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history)
+
 ##  📌 Business Task
 
 "As a data analyst working at a news company you are asked to visualize data that will help readers understand how **countries** have performed historically in the **summer** Olympic Games.
