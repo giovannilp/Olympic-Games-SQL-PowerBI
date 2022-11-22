@@ -1,6 +1,5 @@
 # 🏅  Olympic Games (1896 - 2016) - SQL and Power BI
 
-**POWER BI IMAGE**
 
 ## 📚 Table of Contents
 - [Business Task](#-business-task)
